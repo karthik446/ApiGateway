@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "csharp.format.enable": false,
+    "omnisharp.useEditorFormattingSettings": false,
+    "csharpfixformat.style.spaces.beforeParenthesis": false
+}
